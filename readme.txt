@@ -7,10 +7,10 @@ Stable tag: trunk
 License: MIT
 License URI: https://raw.githubusercontent.com/schamp/wp-members-auth0/master/LICENSE
 
-Wordpress Plugin for integrating the \"require admin approval\" feature of WP-Members and the Auth0 login plugin.
+Wordpress Plugin for integrating the "require admin approval" feature of WP-Members and the Auth0 login plugin.
 
 == Description ==
-Wordpress Plugin for integrating the \"require admin approval\" feature of WP-Members and the Auth0 login plugin.  Requires at least WP-Members v3.1.2 (https://wordpress.org/plugins/wp-members/) and WP-Auth0 v3.1.3 (https://wordpress.org/plugins/auth0/)
+Wordpress Plugin for integrating the "require admin approval" feature of WP-Members and the Auth0 login plugin.  Requires at least WP-Members v3.1.2 (https://wordpress.org/plugins/wp-members/) and WP-Auth0 v3.1.3 (https://wordpress.org/plugins/auth0/)
 
 == Installation ==
 No special installation instructions.
