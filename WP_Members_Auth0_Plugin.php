@@ -1,10 +1,13 @@
 <?php
 /**
  * Plugin Name: WP-Members / Auth0 Integration Plugin 
+ * Plugin URI: https://github.com/schamp/wp-members-auth0
  * Description: Integrate WP-Members plugin 'admin approval required' feature with Auth0 login flow
  * Version: 1.0.0
  * Author: Capstone Performance Systems
  * Author URI: https://www.capstoneperformancesystems.com
+ * License: MIT
+ * License URI: https://raw.githubusercontent.com/schamp/wp-members-auth0/master/LICENSE
  */
 
 define( 'WPMA0P_PLUGIN_FILE', __FILE__ );
